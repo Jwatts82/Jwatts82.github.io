@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Flatiron School Ruby CLI Project**"
-date:       2020-10-01 20:45:21 +0000
+date:       2020-10-01 16:45:22 -0400
 permalink:  flatiron_school_ruby_cli_project
 ---
 
@@ -32,7 +32,7 @@ An API key for this site, once you have a key, the url to the site is as follows
 
 ### ***Coding Process***
 
-After watching Avi's second video, https://www.youtube.com/watch?v=Y5X6NRQi0bU, and reviewing all of the lecture videos I first started with creating a flow chart to understand where i wanted to go and how to go about getting there.  This worked out well, and made it easier for me to see the data flow.  I proceded with setting up the CLI and creating a skeleton for my project to start on.  since my API required a key i had to register for one and provide that information to my CLI in order for it to work.  I proceded through the project utilizing the API KEY to retrieve the information I needed to present to the user.
+After watching Avi's second videos and reviewing all of the lecture videos I first started with creating a flow chart to understand where i wanted to go and how to go about getting there.  This worked out well, and made it easier for me to see the data flow.  I proceded with setting up the CLI and creating a skeleton for my project to start on.  since my API required a key i had to register for one and provide that information to my CLI in order for it to work.  I proceded through the project utilizing the API KEY to retrieve the information I needed to present to the user.
 
 The CLI performs as follows:
 
