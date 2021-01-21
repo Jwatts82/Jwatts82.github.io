@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Project - Flatiron School"
-date:       2021-01-08 22:28:45 +0000
+date:       2021-01-08 17:28:46 -0500
 permalink:  javascript_project_-_flatiron_school
 ---
 
@@ -15,7 +15,7 @@ My project is a quarantine movie system that keeps a record of movies to watch d
 </p>
 
 ### What I Did
-<p> Please view my github repo [here](https://github.com/Jwatts82/quarantine-movies.git).  My project is a quarantine movie system that keeps a record of movies to watch during quarantine.  The object model relationship is a category has many movies in its list.  
+<p> Please view my github repo [[here]](http://)(https://github.com/Jwatts82/quarantine-movies.git).  My project is a quarantine movie system that keeps a record of movies to watch during quarantine.  The object model relationship is a category has many movies in its list.  
 </p>
 
 <a href="https://imgur.com/vvchAL1"><img src="https://i.imgur.com/vvchAL1.png" title="source: imgur.com" /></a>
