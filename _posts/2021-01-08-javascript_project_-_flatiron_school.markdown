@@ -16,7 +16,7 @@ My project is a quarantine movie system that keeps a record of movies to watch d
 
 ### What I Did
 <p> Please view my github repo [Here](http://github.com/Jwatts82/quarantine-movies.git)
-[here](https://github.com/Jwatts82/quarantine-movies.git).  My project is a quarantine movie system that keeps a record of movies to watch during quarantine.  The object model relationship is a category has many movies in its list.  
+ My project is a quarantine movie system that keeps a record of movies to watch during quarantine.  The object model relationship is a category has many movies in its list.  
 </p>
 
 <a href="https://imgur.com/vvchAL1"><img src="https://i.imgur.com/vvchAL1.png" title="source: imgur.com" /></a>
